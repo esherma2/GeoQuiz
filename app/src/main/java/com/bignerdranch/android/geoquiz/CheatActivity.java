@@ -22,6 +22,7 @@ public class CheatActivity extends AppCompatActivity {
     private static final String EXTRA_ANSWER = "com.bignerdranch.android.geoquiz.extra_answer";
 
     private boolean mAnswerIsTrue;
+    private boolean mCheater;
 
     private boolean mKeepCheat;
     private boolean mQuestionAns;
